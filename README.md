@@ -1,9 +1,9 @@
 # Java
  - Alto nível
- - Orientação a Objetos(OO)
- - Herança simples, Herança multipla é através de interfaces
  - Fortemente tipada
  - Compilada
+ - Orientação a Objetos(OO)
+ - Herança simples, Herança multipla é através de interfaces
 
 #JDK (Java Development Kit) 
 .java compila e transforma em arquivos .class que juntos formam o.jar
