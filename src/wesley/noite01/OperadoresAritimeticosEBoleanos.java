@@ -1,6 +1,6 @@
 package wesley.noite01;
 
-public class OperadoresAritimeticos {
+public class OperadoresAritimeticosEBoleanos {
 	public static void main(String[] args) {
 		float nota01 = 8f;
 		float nota02 = 7.5f;
