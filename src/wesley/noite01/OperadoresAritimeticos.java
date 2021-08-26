@@ -1,4 +1,4 @@
-package wesley;
+package wesley.noite01;
 
 public class OperadoresAritimeticos {
 	public static void main(String[] args) {
