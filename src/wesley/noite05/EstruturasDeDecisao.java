@@ -15,7 +15,7 @@ public class EstruturasDeDecisao {
 		} else if (nota >= 1) {
 			System.out.print("Reprovado");
 		} else {
-			System.out.print("Expulso com louvor");
+			System.out.print("Expulso do Colégio");
 		}
 			
 		
