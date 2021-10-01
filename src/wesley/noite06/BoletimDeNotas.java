@@ -8,9 +8,9 @@ import java.util.Scanner;
 public class BoletimDeNotas {
 	public static void main (String[] args){
 		
-		System.out.println("Nome do aluno:");
-		Scanner scannerNome = new Scanner(System.in);
-		String nomeAluno = scannerNome.nextLine();
+		System.out.println("Nome do aluno: ");
+		Scanner sc = new Scanner(System.in);
+		String nomeAluno = sc.nextLine();
 		
 		System.out.println("Digite a Nota da Avaliação-01:");
 		Scanner scannerNota01 = new Scanner(System.in);
