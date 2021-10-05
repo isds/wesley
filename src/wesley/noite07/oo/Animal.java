@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class Animal {
 	LocalDate dataNascimento;
-	LocalDate sexo;
+	Integer sexo;
 	
 	public void comer() {
 		System.out.println("Comendo");
